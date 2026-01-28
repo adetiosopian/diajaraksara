@@ -1,0 +1,104 @@
+{
+  "mudah": {
+    "template": "{S} {V}",
+    "kata": {
+      "S": ["Abdi", "Ujang", "Ani"],
+      "V": ["diajar", "maén", "maca"]
+    }
+  },
+
+  "sedang": {
+    "template": "{S} {V} ka {T}",
+    "kata": {
+      "S": ["Abdi", "Ujang", "anjeunna"],
+      "V": ["indit", "maén"],
+      "T": ["sakola", "imah"]
+    }
+  },
+  "sulit": {
+    "template": [
+      "{S} {V} ka {T}",
+      "{S} {V} {O} {W}",
+      "{S} {V} {O} ka {T}",
+      "{S} {V} {O} {W}"
+    ],
+
+    "kata": {
+      "S": [
+        "Abdi",
+        "Ujang",
+        "Ani",
+        "anjeunna",
+        "murid",
+        "budak",
+        "jalma éta",
+        "anjeunna téh",
+        "budak leutik",
+        "murid sakola",
+        "jalma kolot",
+        "anjeunna sadayana"
+      ],
+
+      "V": [
+        "indit",
+        "diajar",
+        "maca",
+        "nulis",
+        "ngadéngékeun",
+        "ngalalajoan",
+        "maén",
+        "ngapalkeun",
+        "ngulik",
+        "ngaregepkeun",
+        "ngalatih",
+        "nyatet"
+      ],
+
+      "T": [
+        "sakola",
+        "imah",
+        "perpustakaan",
+        "lapang",
+        "kelas",
+        "buruan",
+        "ruang kelas",
+        "teras imah",
+        "balé desa",
+        "saung",
+        "lembur",
+        "kaca imah"
+      ],
+
+      "O": [
+        "buku",
+        "aksara sunda",
+        "dongéng",
+        "palajaran",
+        "carita pondok",
+        "tulisan",
+        "catetan",
+        "gambar aksara",
+        "soal latihan",
+        "carita rakyat",
+        "pelajaran basa",
+        "teks pondok"
+      ],
+
+      "W": [
+        "isuk - isuk",
+        "beurang",
+        "sonten",
+        "peuting",
+        "sapeuting",
+        "sapeuting deui",
+        "isuk kénéh",
+        "sateuacan sare",
+        "sanggeus sakola",
+        "saméméh peuting",
+        "bari calik",
+        "kalawan tenang"
+      ]
+    }
+  }
+}
+
